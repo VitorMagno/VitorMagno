@@ -3,7 +3,7 @@
 
 - 🔭 currently working on **Unimed Maceió as Intern**
 
-- 🌱 currently learning **Java, Laravel & Spring**
+- 🌱 learning **Java, Laravel & Spring**
 
 - 📫 How to reach me **vmcg@ic.ufal.br**
 
