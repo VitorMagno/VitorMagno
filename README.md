@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Magno</h1>
-<h3 align="center">Computer Science's Student at Federal University of Alagoas in a road to become a Software Engineer</h3>
+<h3 align="center">Computer Science's Student with focus on inteligent systems at Federal University of Alagoas</h3>
 
 - 🔭 currently working on **Unimed Maceió as Intern**
 
-- 🌱 learning **Java, Laravel & Spring**
+- 🌱 learning **Machine Learning & Algorithms Project and Analisys**
 
 - 📫 How to reach me **vmcg@ic.ufal.br**
 
