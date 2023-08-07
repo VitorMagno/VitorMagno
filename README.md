@@ -3,7 +3,7 @@
 
 - 🔭 currently working on **Unimed Maceió as Intern**
 
-- 🌱 learning **Machine Learning & Algorithms Project and Analisys**
+- 🌱 learning **Machine Learning & Project and Analysis of Algorithms**
 
 - 📫 How to reach me **vmcg@ic.ufal.br**
 
