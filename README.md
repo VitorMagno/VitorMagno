@@ -3,7 +3,7 @@
 
 - 🔭 currently working on **LaCCAN as a Researcher Student**
 
-- 🌱 Having classes on **deep learning, evolutionary computing and data science**
+- 🌱 Having classes of **deep learning, evolutionary computing and data science**
 
 - 📫 How to reach me **vmcg@ic.ufal.br**
 
