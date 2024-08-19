@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vitor Magno</h1>
+<h1 align="center">Hi 👋, I'm Vitor Gouveia</h1>
 <h3 align="center">Computer Science's Student with focus on inteligent systems at Federal University of Alagoas</h3>
 
 - 🔭 currently working on **LaCCAN as a Researcher Student**
 
-- 🌱 learning **Machine Learning & Project and Analysis of Algorithms**
+- 🌱 Having classes on **deep learning, evolutionary computing and data science**
 
 - 📫 How to reach me **vmcg@ic.ufal.br**
 
