@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Gouveia</h1>
 <h3 align="center">Computer Science's Student with focus on inteligent systems at Federal University of Alagoas</h3>
 
-- 🔭 currently working on **LaCCAN as a Researcher Student**
-
-- 🌱 Having classes of **deep learning, evolutionary computing and data science**
+- 🔭 currently working on **LaCCAN as a IA Researcher Student**
 
 - 📫 How to reach me **vmcg@ic.ufal.br**
-
-- 📄 Know about my experiences [https://rxresu.me/r/Wr5-PxKY](https://rxresu.me/r/Wr5-PxKY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
