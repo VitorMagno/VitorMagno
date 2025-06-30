@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Gouveia</h1>
-<h3 align="center">Computer Science's Student with focus on inteligent systems at Federal University of Alagoas, IA engineer & Data Scientist</h3>
+<h3 align="center">Computer Science's Student with focus on inteligent systems at Federal University of Alagoas, software engineer & data engineer</h3>
 
 - 🔭 currently working on **LaCCAN as a IA Researcher Student**
 
